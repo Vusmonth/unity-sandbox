@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 5e231623be245374abad85489412913a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Fairy: {fileID: 5898393809560851119, guid: a9bdd46775239764393668f43c585c6e, type: 3}
+  - burn: {fileID: 8221210141200870729, guid: ed17cad633a514e439f857ed2a045d0a, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

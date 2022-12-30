@@ -1,0 +1,400 @@
+fileFormatVersion: 2
+guid: bf29a0d0224bbdb45a50a40f011e7f41
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7003748972439087445
+    second: Bob
+  - first:
+      213: -933531471790697604
+    second: Foot
+  - first:
+      213: -5673618120071735642
+    second: Body
+  - first:
+      213: -3364893091896500576
+    second: Hand1
+  - first:
+      213: 4815790206063276007
+    second: Hand2
+  - first:
+      213: 3215533045454149936
+    second: Hand3
+  - first:
+      213: -334957834503138836
+    second: Kenny_7
+  - first:
+      213: 4134470982481670237
+    second: Head
+  - first:
+      213: -3586313052841812995
+    second: Kenny_9
+  - first:
+      213: 4617648662902375795
+    second: rLeg
+  - first:
+      213: 5701282039765148202
+    second: Kenny_11
+  - first:
+      213: -3816820795833024231
+    second: lLeg
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bob
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 215
+        width: 94
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c154fcb84558214eb2a7a82cc58408d
+      internalID: 7003748972439087445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foot
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 696
+        width: 87
+        height: 123
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5081301}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e953622d52c7f3c45ac89c86add84456
+      internalID: -933531471790697604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 272
+        width: 206
+        height: 392
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5659f464cd9db924c962866b4064773c
+      internalID: -5673618120071735642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand1
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 486
+        width: 81
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b0480b26d4aba45be0aced92d52ab0
+      internalID: -3364893091896500576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand2
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 486
+        width: 84
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06eed7a985ff2d748ac69bc7d639c4e8
+      internalID: 4815790206063276007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand3
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 349
+        width: 92
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 447a74c7ca8187941a810a548c1581f8
+      internalID: 3215533045454149936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenny_7
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 251
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb5112201cc85e4fbb33d1bbd245179
+      internalID: -334957834503138836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 85
+        width: 298
+        height: 258
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5459ed04b3f2b6042a1050b8ad1facf1
+      internalID: 4134470982481670237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenny_9
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 226
+        width: 18
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 752c1d8c2d58e624c85c01a90aa0bceb
+      internalID: -3586313052841812995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rLeg
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 18
+        width: 116
+        height: 193
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 108b721a7244cf74dbc3a776773e3b9b
+      internalID: 4617648662902375795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenny_11
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 192
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f6a7888aeb4204eb423a38c6af39e9
+      internalID: 5701282039765148202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lLeg
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 16
+        width: 119
+        height: 202
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd15ecae6e684a42a1d4259321c9e75
+      internalID: -3816820795833024231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ad72a5fe1154a664189ba20cae07dbdb
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 1
+  pSDShowRemoveMatteOption: 1
+  userData: 637046875839653244
+  assetBundleName: 
+  assetBundleVariant: 
